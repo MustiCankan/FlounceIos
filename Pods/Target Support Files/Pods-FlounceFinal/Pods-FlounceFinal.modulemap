@@ -1,0 +1,6 @@
+framework module Pods_FlounceFinal {
+  umbrella header "Pods-FlounceFinal-umbrella.h"
+
+  export *
+  module * { export * }
+}

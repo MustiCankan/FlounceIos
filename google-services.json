@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "671908107211",
+    "project_id": "safespotdeneme",
+    "storage_bucket": "safespotdeneme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671908107211:android:c5f38be468640022cadc4e",
+        "android_client_info": {
+          "package_name": "com.example.safespotdeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671908107211-5p9oc5v1f5t9qo9m5615akt4o0qp4bpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM8UZD9Zlc6ryOtksqomJlIA9R82UCpV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671908107211-5p9oc5v1f5t9qo9m5615akt4o0qp4bpg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671908107211-2m63dfpq1v3jf0g2nfj2q6f3sd8kklme.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.safespotdeneme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
